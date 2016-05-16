@@ -1,5 +1,5 @@
 # JMH Example
-This is a simple JMH benchmarks to demonstrate how several independant opertions can be executed in parallel by different ALUs. 
+This is a simple JMH benchmarks to demonstrate how several independant operations can be executed in parallel by different ALUs. 
 
 ### Building
 `mvn clean package`
